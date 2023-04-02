@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# logs
+runs
+lightning_logs
+
+# data files
+Task04_Hippocampus
+Task04_Hippocampus.tar
+._Task04_Hippocampus
+

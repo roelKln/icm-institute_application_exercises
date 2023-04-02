@@ -2,7 +2,7 @@
 
 *Author: Roel Klein*
 
-Note: developed and tested on Windows. I tried to make it as much OS independent, but some minor changes may need to be made for Mac/Linux compatability. 
+**Note**: developed and tested on Windows. I tried to make it as much OS independent, but some minor changes may need to be made for Mac/Linux compatability. 
 
 - [ICM-institute application exercises](#icm-institute-application-exercises)
   - [Installation](#installation)
